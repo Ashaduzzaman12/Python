@@ -1,0 +1,4 @@
+class calculattor:
+    brand='casio'
+
+    
